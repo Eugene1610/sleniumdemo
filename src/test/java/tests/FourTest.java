@@ -26,6 +26,7 @@ public class FourTest extends Base{
 		Assert.assertTrue(false);
 		driver.close();
 		
+		System.out.println("Only to be strong!");
 	}
 	
 	@AfterMethod
