@@ -29,6 +29,8 @@ public class FourTest extends Base{
 		System.out.println("Only to be strong!");
 		System.out.println("Only to be strong!");
 		System.out.println("Only to be strong!");
+		
+		System.out.println(" be strong!");
 	}
 	
 	@AfterMethod
